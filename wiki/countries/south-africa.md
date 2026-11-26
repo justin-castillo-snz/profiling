@@ -1,5 +1,19 @@
 # South Africa
 
+## Enterprise-group profiling at Stats SA (2025)
+
+[Presentation](../sources/wbg-stats-sa-profiling-presentation-2025.md) (slides 3–13) and [abstract](../sources/wbg-stats-sa-profiling-abstract-2025.md) (pp. 1–2), Wiesbaden Group, 29th meeting, October 2025. These are the Stats SA Large Business Unit's own account and complement the UN-annex material below.
+
+- **Unit and scope:** the enterprise group, profiled as a structural and relationship unit ([group and enterprise](../units/group-and-enterprise.md#national-scope-and-group-level-classification-stats-sa-2025)). Listed groups, state-owned companies and unlisted companies are profiled; extra-budgetary units (for example municipalities) and companies incorporated abroad are not. Profiling starts from the SA-incorporated holding company; foreign parents and, per the abstract, foreign subsidiaries are excluded.
+- **Process:** desktop profiling, data collection, register update, then dissemination of the profile. Groups are re-profiled after a year, or immediately after major structural change. ([workflow](../concepts/profiling-workflow.md))
+- **Selection:** complex structure and group annual turnover above R100 million, with candidates from survey-area requests and published ownership directories. ([case selection](../concepts/case-selection.md))
+- **Classification:** no activity code at group level; each company is classified as its own legal unit.
+- **Duration:** about 3–6 months (less complex) to over a year (very complex).
+- **Stated challenges:** respondent confidentiality concerns, long profile times, repeated survey-area queries, restructuring, and limited use of AI, machine learning and web scraping.
+- **Open question:** the slides' chart shows foreign subsidiaries, which sits oddly with the abstract's exclusion; see the [source note](../sources/wbg-stats-sa-profiling-presentation-2025.md#limitations-and-open-questions).
+
+## A group file and two kinds of quality check (UN Annex F6, 2024)
+
 ## A group file and two kinds of quality check
 
 [UN Guidelines](../sources/un-guidelines-on-sbr.md), Annex F6, pp. 379–389, figs F6.1–F6.5; Box 7.2. The annex reproduces a quality instrument: its questions show what analysts were asked to check, **not** how often a check passed.

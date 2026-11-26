@@ -9,6 +9,8 @@ Start with [Profiling a complex business](concepts/profiling-workflow.md) for wh
 - [Eurostat Guidelines for Large Cases Units](sources/eurostat-lcu-guidelines.md) — preliminary 2026 edition; how group profiles support cross-survey checks, and what discrepancies reveal about group structure.
 - [Eurostat European business profiling manual](sources/european-business-profiling-2020.md) — 2020 recommendations on the collaborative European method, enterprise delineation, casework, contact and NSI organization.
 - [Wiesbaden Group: Statistical Units](sources/wbg-statistical-units-2025.md) — 2025 discussion of enterprise versus establishment, ISIC classification of multinationals and comparability across profiling methods.
+- [Wiesbaden Group: Stats SA profiling processes, abstract](sources/wbg-stats-sa-profiling-abstract-2025.md) — 2025 abstract on enterprise-group profiling, its challenges and the exclusion of foreign companies.
+- [Wiesbaden Group: Stats SA profiling processes, presentation](sources/wbg-stats-sa-profiling-presentation-2025.md) — 2025 slides on scope, four-step process, selection threshold, duration and group-level classification.
 - [Profiling practices compared](analyses/profiling-practices.md) — selection, purpose, contact and quality across offices.
 
 ## Concepts and units
@@ -42,7 +44,7 @@ Start with [Profiling a complex business](concepts/profiling-workflow.md) for wh
 | [Netherlands](countries/netherlands.md) | Top-down delineation, cross-survey consistency, and 2020 profiling organization. |
 | [Poland](countries/poland.md) | Year-specific group membership, survey validations, and 2020 profiling organization. |
 | [Romania](countries/romania.md) | 2020 comparison of manual and automatic profiling coverage. |
-| [South Africa](countries/south-africa.md) | Document the investigation and assess the revised profile. |
+| [South Africa](countries/south-africa.md) | 2025 group-profiling process and scope; document the investigation and assess the revised profile. |
 | [Spain](countries/spain.md) | Test control boundaries and proposed enterprises with group management. |
 | [Sweden](countries/sweden.md) | Separate conceptual differences from avoidable reporting errors. |
 | [Switzerland](countries/switzerland.md) | Quarterly workplace employment, threshold discrepancy, and 2020 profiling organization. |

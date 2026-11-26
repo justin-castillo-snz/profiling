@@ -21,7 +21,7 @@ Record the issuer, edition or date, reference period, scope, units covered and l
 
 ## 3. Write the source note
 
-Create `wiki/sources/<kebab-name>.md` with links to the original and the reading copy (relative paths; URL-encode spaces as `%20`), a section-by-section evidence guide with page or section references, and limitations. Keep what the source says separate from what it might mean for profiling.
+Create `wiki/sources/<kebab-name>.md` naming the original file and reading copy in plain text (never link into `raw/`; it is git-ignored and the wiki is published), a section-by-section evidence guide with page or section references, and limitations. Keep what the source says separate from what it might mean for profiling.
 
 ## 4. Update concepts and units
 

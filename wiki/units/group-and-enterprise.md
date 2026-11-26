@@ -22,6 +22,12 @@ A profiler needs two boundaries: **which legal units are under common control**,
 - **Group types.** The SBR can record groups as all-resident, multinational domestically controlled (global decision centre in the compiling country) or multinational foreign controlled (decision centre abroad) (§5.12). Truncated groups follow events at multinational level and do not have their own births or deaths in the same way (§§7.51–7.75).
 - **Decision centre.** Usually the global group head, but a head without substantial presence, activity or employment may not be able to act as one, in which case the decision centre moves down the group tree. The UN says this cannot be set by an operational rule and "can be established during profiling", considering where main production, value added and R&D are located, and recommends agreeing it with other countries' offices (Annex A, p. 268–269).
 
+## National scope and group-level classification (Stats SA, 2025)
+
+- **Documented:** Stats SA profiles enterprise groups that start from an SA-incorporated holding company; ultimate holding companies incorporated abroad are excluded, and the abstract also excludes foreign subsidiaries. Within a profiled group, each company is classified by its own activity as a separate legal unit; no activity code is assigned to the group. ([Abstract](../sources/wbg-stats-sa-profiling-abstract-2025.md), p. 2; [presentation](../sources/wbg-stats-sa-profiling-presentation-2025.md), slides 5, 10.)
+- **Analyst interpretation:** this is a national, resident-only view of the group, similar in effect to the truncated group above, but the sources do not use that term or describe enterprise delineation. It differs from the European manual's global delineation, where a foreign parent can be the starting point. The group here is a structural and relationship unit; the documents do not say whether enterprises or KAUs are derived from it.
+- **Unresolved:** the presentation chart shows foreign subsidiaries, against the abstract's exclusion (see the source note).
+
 ## European manual: global delineation and autonomy
 
 The [2020 Eurostat manual](../sources/european-business-profiling-2020.md), §§1.B–1.D, distinguishes the **global group head (GGH)** from the **global decision centre (GDC)**: the former is at the top of the ownership/control tree, while the latter is where strategic group decisions are made and determines which NSI coordinates European profiling. Neither should be assumed to be the other.

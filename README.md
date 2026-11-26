@@ -2,6 +2,8 @@
 
 A public wiki on business profiling: how statistical offices identify and maintain profiles of large, complex businesses. Published at <https://justin-castillo-snz.github.io/profiling/>.
 
+Wiki is based on Karpathy's gist on [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+
 ## Repository
 
 - `wiki/` holds the published Markdown. Start at [wiki/index.md](wiki/index.md).

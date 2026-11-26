@@ -83,3 +83,16 @@ Compared every profiling mention and large/complex-unit passage in the UN Guidel
 
 ### Removed
 - None.
+
+## [2026-11-27] ingest | Wiesbaden Group: Stats SA profiling processes (abstract and presentation)
+
+### Added
+- Source notes for the [abstract](sources/wbg-stats-sa-profiling-abstract-2025.md) and the [presentation](sources/wbg-stats-sa-profiling-presentation-2025.md) from Session 3 of the 29th Wiesbaden Group meeting, with CIRCABC provenance and reading copies under raw/md/.
+- Section on [national scope and group-level classification](units/group-and-enterprise.md#national-scope-and-group-level-classification-stats-sa-2025).
+
+### Changed
+- Added a 2025 Stats SA section to [South Africa](countries/south-africa.md), a threshold-plus-complexity selection example to [case selection](concepts/case-selection.md), and South Africa to the not-identified list in the [approaches catalogue](analyses/profiling-approaches.md). No new general approach.
+- Updated the [index](index.md).
+
+### Removed
+- None.
