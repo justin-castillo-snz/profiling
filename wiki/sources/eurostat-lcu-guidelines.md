@@ -1,0 +1,16 @@
+# Eurostat: Guidelines for Large Cases Units
+
+Eurostat, the LCU Consortium, MNEnet and national experts. *Guidelines for Large Cases Units*. Publications Office of the European Union, 2026. **Preliminary edition**, manuscript completed 20 May 2026; not an official European Commission position. DOI: 10.2785/3278949. The original PDF (`Eurostat guidelines for LCU.pdf`) and the Markdown reading copy used for this ingest are not published with this wiki. The wiki paraphrases and compares the source; it does not reproduce an operational standard.
+
+**Why it matters for profiling.** In one direction, a profile tells analysts which resident units and activities a return covers, so they can compare like with like. In the other, a mismatch between surveys can reveal an unrecognised branch or an obsolete reporting boundary. Many LCU activities are neither: correcting a timing difference, for example, need not change the business profile (§§1.2, 4.1, 4.6, 5.1; §6.7, Annex 1).
+
+| Where | Evidence to follow |
+|---|---|
+| §§1.1–1.4, pp. 8–12 | Mandate, European coordination and the March 2024 survey. By April, 18 countries reported an implemented unit, and 959 groups were treated across LCUs or similar structures. The figure above 1,700 for end-2028 was a projection. Portfolios and responsibilities differ; these counts do not measure profiling coverage or productivity. |
+| §§2.1–2.3, pp. 13–20 | [Who makes decisions](../concepts/lcu-coordination.md), [which cases to select](../concepts/case-selection.md), and the skills needed to connect group accounts to statistics. |
+| §§3.1–3.2, pp. 21–26 | [Preparing group contact and agreeing corrections](../concepts/lcu-coordination.md). The document distinguishes access to microdata from the mandate to change it. |
+| §§4.1–5.4, pp. 27–35 | [Consistency versus coherence](../concepts/profile-change-and-quality.md); [reporting units](../units/observation-and-reporting.md), consolidation, periods and transformations. In §5.3 the printed ratio condition flags a ratio *inside* the band, whereas the prose describes a difference exceeding tolerance. Treat it as an illustration, not an executable rule. |
+| §§6.1–6.4, pp. 36–48 | [Denmark](../countries/denmark.md): who implements corrections; [Ireland](../countries/ireland.md): combined collection and economic ownership; [Sweden](../countries/sweden.md): identifying avoidable errors; [Netherlands](../countries/netherlands.md): checks across and beyond the LCU portfolio. |
+| §§6.5–6.8, pp. 48–87 | [Belgium](../countries/belgium.md): joint profiling and supply/use checks; [Spain](../countries/spain.md): intensive delineation; [Italy](../countries/italy.md): from a flow discrepancy back to the profile; [Poland](../countries/poland.md): year-specific group membership and validation. |
+
+Chapter 6 contains eight substantial cases, not eight implementations of one profiling method. Chapter 2 adds organisational evidence from [Germany](../countries/germany.md), [Greece](../countries/greece.md) and [Finland](../countries/finland.md). Survey status **as of April 2024**, the chronology in fig. 1 **through 2026**, and the years reported by each case are distinct. A date for establishing an LCU is not a date for starting profiling.

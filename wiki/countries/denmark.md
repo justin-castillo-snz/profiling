@@ -1,0 +1,7 @@
+# Denmark
+
+## Detect centrally, correct with the domains
+
+Statistics Denmark's LCU, established in 2018 after earlier ad hoc projects, examines global production during data processing. Its unit of comparison is the **reporting legal unit**. It compares monthly foreign trade and balance of payments (BoP), monthly manufacturers' turnover, quarterly production sales and annual business accounts, supplemented by VAT and financial reports. A group can be the reason to investigate without being the unit at which the discrepancy is measured. [Eurostat LCU Guidelines](../sources/eurostat-lcu-guidelines.md), §§6.1–6.1.2, pp. 36–39; [reporting units](../units/observation-and-reporting.md).
+
+For example, the team compares exports (including merchanting and processing sales) plus domestic sales approximated from VAT with reported turnover. A difference may reflect foreign branches, transfer-price adjustments, or physical movement without a change of economic ownership. Staff rank cases by likely impact, check explanations with domain experts, then take unresolved questions to the group. Monthly case discussions and quarterly coordination lead to corrections by the responsible domains; the LCU checks they were implemented. Historical data may be corrected by the office while the firm changes its future reporting. Final annual business accounts arrive about 15 months after the period, so earlier checks remain provisional. (§6.1, figs 4–5; [coordination and correction](../concepts/lcu-coordination.md).)

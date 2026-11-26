@@ -1,0 +1,11 @@
+# Spain
+
+The [approaches catalogue](../analyses/profiling-approaches.md#top-down-from-the-group-to-autonomous-enterprises) compares INE's use of business lines with other group-first methods.
+
+## Intensive profiling: test the proposed enterprise with the people who run it
+
+Spain's INE established its LCU in 2022, reporting directly to the presidency. Its Profiling Area identifies group perimeters, enterprises and relationships and monitors restructurings. Its Globalisation Area studies how the resulting units' production arrangements are reflected in national accounts and the balance of payments. Intensive profiling began in early 2023; the portfolio reached 20 groups in 2024 and 41 in 2025. Ranking combines employment, turnover, subsidiaries and geographic scope with cases flagged by cross-source inconsistencies. [Eurostat LCU Guidelines](../sources/eurostat-lcu-guidelines.md), §6.6, pp. 56–61; [case selection](../concepts/case-selection.md).
+
+- **Desk research:** Establish the [control perimeter](../units/group-and-enterprise.md) from consolidated and individual accounts, looking specifically for controlled entities omitted from consolidation. Then propose enterprises using operating segments or, where available, business lines. The second decision turns on autonomy, not shareholding.
+- **Validate with the group:** A letter from the INE president opens contact with senior management. The director responsible for consolidated accounts is often best placed to test the provisional delineation; operations or tax staff can explain particular flows. If the map does not fit, continue by email or telephone rather than forcing a decision in the meeting. Explain which existing returns will be better understood and protect confidentiality. (§6.6, pp. 58–59; [engagement](../concepts/lcu-coordination.md).)
+- **Use the profile:** Investigate processing, merchanting, factoryless production or intangible assets where physical movements and economic ownership differ. The Globalisation Group connects INE domains, the central bank and tax agency to discuss recording and revisions. The centralised automated review system was described as work in progress, not the method that by itself determines enterprises. (§6.6, pp. 59–61; [European coordination](../concepts/european-profiling.md).)

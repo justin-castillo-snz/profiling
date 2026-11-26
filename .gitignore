@@ -1,0 +1,7 @@
+# Original sources and reading copies stay local: they include copyrighted and internal material.
+raw/
+
+# Build output and local tooling
+site/
+.venv/
+__pycache__/

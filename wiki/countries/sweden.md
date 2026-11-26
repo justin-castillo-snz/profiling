@@ -1,0 +1,7 @@
+# Sweden
+
+## Investigate avoidable discrepancies, explain conceptual ones
+
+Statistics Sweden established its LCU in 2004. It followed roughly the same 50 groups for many years before reducing and reviewing the portfolio annually. Analysts monitor business developments and returns, discuss current cases quarterly with national accounts, and examine multiple years rather than a single outlier. Data collection remains with the collection department: before contacting a firm, the LCU asks colleagues what has already been asked and answered. [Eurostat LCU Guidelines](../sources/eurostat-lcu-guidelines.md), §§3.1, 6.3, pp. 44–45; [contact coordination](../concepts/lcu-coordination.md).
+
+The office uses links between statistical units in quarterly coordinated survey frames and shared legal identifiers in tax data. Even linked observations may not be additive because of internal flows. Some checks are directional: employment and production might rise together without having a fixed relationship. A conceptual difference should be explained; a suspected measurement error warrants a targeted discussion with the firm. If several firms make the same error, the remedy may be a change to the questionnaire or instructions rather than repeated corrections to respondents' figures. (§§6.3.2–6.3.4; [consistency and coherence](../concepts/profile-change-and-quality.md), [observation units](../units/observation-and-reporting.md).)

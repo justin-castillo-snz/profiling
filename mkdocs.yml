@@ -1,0 +1,55 @@
+site_name: Business profiling wiki
+site_url: https://justin-castillo-snz.github.io/profiling/
+repo_url: https://github.com/justin-castillo-snz/profiling
+docs_dir: wiki
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Concepts:
+      - concepts/profiling-workflow.md
+      - concepts/lcu-coordination.md
+      - concepts/case-selection.md
+      - concepts/profile-change-and-quality.md
+      - concepts/european-profiling.md
+  - Units:
+      - units/group-and-enterprise.md
+      - units/activity-and-location.md
+      - units/observation-and-reporting.md
+  - Analyses:
+      - analyses/profiling-approaches.md
+      - analyses/profiling-practices.md
+  - Countries:
+      - countries/australia.md
+      - countries/belgium.md
+      - countries/canada.md
+      - countries/colombia.md
+      - countries/denmark.md
+      - countries/finland.md
+      - countries/france.md
+      - countries/germany.md
+      - countries/greece.md
+      - countries/indonesia.md
+      - countries/ireland.md
+      - countries/italy.md
+      - countries/malaysia.md
+      - countries/netherlands.md
+      - countries/poland.md
+      - countries/romania.md
+      - countries/south-africa.md
+      - countries/spain.md
+      - countries/sweden.md
+      - countries/switzerland.md
+      - countries/united-kingdom.md
+  - Sources:
+      - sources/un-guidelines-on-sbr.md
+      - sources/eurostat-lcu-guidelines.md
+      - sources/european-business-profiling-2020.md
+      - sources/wbg-statistical-units-2025.md
+  - Log: log.md
