@@ -14,8 +14,6 @@
 
 ## A group file and two kinds of quality check (UN Annex F6, 2024)
 
-## A group file and two kinds of quality check
-
 [UN Guidelines](../sources/un-guidelines-on-sbr.md), Annex F6, pp. 379–389, figs F6.1–F6.5; Box 7.2. The annex reproduces a quality instrument: its questions show what analysts were asked to check, **not** how often a check passed.
 
 - **Trigger:** For the designated profiling population, administrative changes and survey feedback signal a need to reprofile. Box 7.2 distinguishes this from the improvement surveys and ad hoc investigations used elsewhere in the register. See [case selection](../concepts/case-selection.md).

@@ -43,6 +43,3 @@ git push origin main
 
 Confirm `git status --short` shows nothing unexpected before committing (`raw/`, `site/` and `.venv/` are ignored). If the push asks for credentials in a non-interactive shell, stop and ask the user to run `git push origin main` themselves.
 
-## 4. Confirm
-
-After about a minute, check the Actions run for "Deploy wiki to GitHub Pages" and open the site. Pages must have Source set to **GitHub Actions** (Settings > Pages); if the site still shows a plain Jekyll page, that setting is the cause.

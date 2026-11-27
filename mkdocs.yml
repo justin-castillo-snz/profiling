@@ -18,6 +18,7 @@ nav:
       - concepts/case-selection.md
       - concepts/profile-change-and-quality.md
       - concepts/european-profiling.md
+      - concepts/glossary.md
   - Units:
       - units/group-and-enterprise.md
       - units/activity-and-location.md
@@ -54,4 +55,11 @@ nav:
       - sources/wbg-statistical-units-2025.md
       - sources/wbg-stats-sa-profiling-abstract-2025.md
       - sources/wbg-stats-sa-profiling-presentation-2025.md
+      - sources/wbg-eurostat-lcu-paper-2025.md
+      - sources/wbg-eurostat-lcu-presentation-2025.md
+      - sources/wbg-ine-spain-lcu-paper-2025.md
+      - sources/wbg-ine-spain-lcu-presentation-2025.md
+      - sources/statcan-epm-nz-lcu-meeting-2025.md
+      - sources/statcan-ibsp-overview-2015.md
+      - sources/voorburg-statcan-epm-2018.md
   - Log: log.md

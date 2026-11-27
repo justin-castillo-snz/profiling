@@ -96,3 +96,84 @@ Compared every profiling mention and large/complex-unit passage in the UN Guidel
 
 ### Removed
 - None.
+
+## [2026-11-27] ingest | Wiesbaden Group: The Spanish LCU (paper and presentation)
+
+### Added
+- Source notes for the [paper and abstract](sources/wbg-ine-spain-lcu-paper-2025.md) and the [presentation](sources/wbg-ine-spain-lcu-presentation-2025.md) (INE Spain, Session 3, S3.2), with CIRCABC provenance and reading copies under raw/md/.
+- Sections on [INE's own account](countries/spain.md#ines-own-account-wiesbaden-group-2025-two-stage-selection-annual-calendar-and-a-proposed-single-reporting-channel), a [two-stage complexity index](concepts/case-selection.md#a-two-stage-complexity-index-spain-2025), [intensive profiling and annual follow-up](concepts/profiling-workflow.md#intensive-profiling-and-annual-follow-up-spain-2025) and [unit vocabulary](units/group-and-enterprise.md#unit-vocabulary-ine-spain-2025).
+
+### Changed
+- Added an INE LCU design section to [LCU coordination](concepts/lcu-coordination.md) and the MNEData proposal to [observation and reporting](units/observation-and-reporting.md).
+- Updated the Spain variant and country row in the [approaches catalogue](analyses/profiling-approaches.md); no new general approach. Updated the [index](index.md). Section of user reading notes in [Spain](countries/spain.md#analyst-notes-on-the-ine-account-user-notes-not-a-published-source), labelled as interpretation, with the divergences from the paper flagged (three-stage reading, portfolio growth period, GEN versus GEG, follow-up timing).
+- Open questions: the paper and presentation label portfolio years differently; the anonymised case tables are summarised qualitatively only.
+
+### Removed
+- None.
+
+## [2026-11-27] ingest | Statistics Canada Enterprise Portfolio Management (Voorburg Group, 2018)
+
+### Added
+- Source note [Statistics Canada EPM Program](sources/voorburg-statcan-epm-2018.md): 2018 Voorburg Group paper (not Wiesbaden), reading copy under raw/md/.
+- Sections: [Canada EPM](countries/canada.md#the-enterprise-portfolio-management-epm-program-voorburg-group-2018), [complexity ranking](concepts/case-selection.md#a-complexity-ranking-by-industries-regions-and-size-canada-2018), [portfolio-manager model](concepts/lcu-coordination.md#a-reported-portfolio-manager-model-statistics-canada-epm-2018), [interview-based profile cycle](concepts/profiling-workflow.md#interview-based-profile-cycle-with-training-canada-2018).
+
+### Changed
+- Added collection-entity and coherence paragraphs to [observation and reporting](units/observation-and-reporting.md) and [change and quality](concepts/profile-change-and-quality.md); a row to [profiling practices](analyses/profiling-practices.md); updated the Canada row in the [approaches catalogue](analyses/profiling-approaches.md) (no new general approach); updated the [index](index.md).
+- Open questions: selection and review cycle compared with Annex F2 (same office, different populations?); benefits are self-reported and unmeasured beyond a 95% response rate.
+
+### Removed
+- None.
+
+## [2026-11-27] query | Concept glossary
+
+### Added
+- [Glossary of profiling terms](concepts/glossary.md): acronyms and technical phrases (GDC, GGH, GEN, ENT, TENT, GEG, EGR, IPT, EWS, LCU, KAU, control perimeter, statistical unit, delineation, top-down/bottom-up and others), each with a source-specific definition, citation and link to the explaining page. Differing usages (profiling, light profiling, top-down, vertical coherence/consistency) are shown together. Terms without a source definition are listed, not defined.
+
+### Changed
+- Linked the glossary from the [index](index.md); added a glossary step to the [ingest skill](https://github.com/justin-castillo-snz/profiling/blob/main/.github/skills/ingest-source/SKILL.md) and the [lint skill](https://github.com/justin-castillo-snz/profiling/blob/main/.github/skills/lint/SKILL.md), and to [AGENTS.md](https://github.com/justin-castillo-snz/profiling/blob/main/AGENTS.md).
+
+### Removed
+- None.
+
+
+## [2026-11-27] ingest | Statistics Canada IBSP Overview (2015, historical)
+
+### Added
+- Source note [Statistics Canada IBSP Overview](sources/statcan-ibsp-overview-2015.md), marked historical (2015, prospective). Read directly from the PDF; no reading copy made.
+- Section [Canada: IBSP 2015](countries/canada.md#integrated-business-statistics-program-2015-historical): four statistical units, allocation factors, smart replacement, 2015 EPM figures compared with 2018.
+
+### Changed
+- Added four-level unit paragraph to [activity and location](units/activity-and-location.md), an allocation paragraph to [observation and reporting](units/observation-and-reporting.md), a 2015 pointer in the [glossary](concepts/glossary.md) EPM entry, and the [index](index.md).
+- Open questions: why 2015 (330 groups, 90% response) and 2018 (300, 95%) EPM figures differ; how profiling informs smart replacement.
+
+### Removed
+- None.
+
+
+## [2026-11-27] ingest | Statistics Canada EPM deck for NZ LCU meeting (2025)
+
+### Added
+- Source note [Statistics Canada EPM deck](sources/statcan-epm-nz-lcu-meeting-2025.md): NZ–Canada correspondence, 26 Nov 2025, with a 2015/2018/2025 comparison table. Reading copy under `raw/md/`.
+- Section [Canada: EPM and Coherence Programs 2025](countries/canada.md#epm-and-coherence-programs-nz-lcu-meeting-deck-2025).
+
+### Changed
+- Added 2025 evidence to [LCU coordination](concepts/lcu-coordination.md), [case selection](concepts/case-selection.md), [profiling workflow](concepts/profiling-workflow.md), [profile change and quality](concepts/profile-change-and-quality.md), [glossary](concepts/glossary.md), the Canada row in [profiling approaches](analyses/profiling-approaches.md), and the [index](index.md).
+- Open questions: why the portfolio fell from about 300 to 230; unnamed profiling-case metrics; omitted slides; NZ applicability of the legal basis.
+
+### Removed
+- None.
+
+
+## [2026-11-27] ingest | Wiesbaden Group: European experience with LCUs (Eurostat paper and presentation)
+
+### Added
+- Source notes [paper](sources/wbg-eurostat-lcu-paper-2025.md) and [presentation](sources/wbg-eurostat-lcu-presentation-2025.md). No reading copy made; PDFs read directly.
+- Section [EWS and LCU adoption](concepts/european-profiling.md#ews-and-lcu-adoption-2025-eurostat-account) and [Eurostat's 2025 overview](concepts/lcu-coordination.md#eurostats-2025-overview-of-european-lcus).
+
+### Changed
+- Added 2025 Eurostat summaries to [Belgium](countries/belgium.md), [Denmark](countries/denmark.md), [Ireland](countries/ireland.md), [Italy](countries/italy.md), [Poland](countries/poland.md) and [Spain](countries/spain.md); extended the EWS entry in the [glossary](concepts/glossary.md); updated the [index](index.md).
+- Approaches catalogue unchanged: the sources do not say how units are formed.
+- Open questions: 18-country count dated April 2024 (paper) vs March 2025 (slides); Session 2 vs 3 labelling; guideline title and publication status; start-year differences (IT, DK, LU).
+
+### Removed
+- None.

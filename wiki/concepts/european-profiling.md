@@ -6,6 +6,12 @@ See the [approaches catalogue](../analyses/profiling-approaches.md#top-down-from
 
 This is a **regional method**, not an account of what every European office does nationally. National profiling can start from the resident part of a group. European profiling starts from the worldwide group so offices observing different pieces can agree what they belong to. [UN Guidelines](../sources/un-guidelines-on-sbr.md), Box 6.11 and Annex F1, pp. 359–361.
 
+## EWS and LCU adoption: 2025 Eurostat account
+
+Eurostat's 2025 Wiesbaden paper describes the EWS as a structured, voluntary, non-legislative exchange between national compilers and Eurostat on restructuring events such as mergers and acquisitions. A group may be proposed for European profiling and monitored for a year or more, with the EuroGroups Register updated; closed cases are published as methodological summary notes. Obtaining information from the group is named as the main difficulty. The slides date the EWS to 2017 and report that over 20% of the 934 groups followed by national LCUs were also in Eurostat's European profiling programme in 2024. ([Paper](../sources/wbg-eurostat-lcu-paper-2025.md), pp. 3–5; [presentation](../sources/wbg-eurostat-lcu-presentation-2025.md), slides 4–5.)
+
+LCUs themselves are voluntary in EU-EFTA. As of March 2025 Eurostat's 2024 survey counted 18 countries with an LCU, 4 with a similar structure, 4 creating one and 5 with none; the paper gave 18 "as of April 2024" (unresolved date difference). Start years run from Sweden 2004 to Austria 2024 ([presentation](../sources/wbg-eurostat-lcu-presentation-2025.md), slides 6–7). Reported legal basis for sharing confidential data is EU-specific (Regulation 223/2009 and 2019/2152) and does not transfer to New Zealand. *Analyst interpretation:* an LCU's existence does not show which unit-formation method an office uses.
+
 The [2020 Eurostat recommendations manual](../sources/european-business-profiling-2020.md), §§1.C–1.D, describes this workflow as follows:
 
 1. Establish the global enterprise group and its controlled/consolidated legal-unit perimeter. Validate the **global decision centre (GDC)**, which determines the lead NSI; it can differ from the **global group head (GGH)**, which sits at the top of the ownership/control structure (§§1.B, 2.C–2.D).

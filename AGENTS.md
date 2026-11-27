@@ -19,6 +19,15 @@ Build a cumulative, evidence-based understanding of business profiling and other
 - Preserve `raw/` originals; put synthesized material in `wiki/`. Do not copy confidential business records into the wiki.
 - Focus on profiling. Include register material only when it explains a profiling decision, input, output or consequence. Internal Stats NZ material is background unless explicitly selected for ingestion.
 
+### Publishing
+
+- Deploy only when the user asks, following the [deploy-wiki skill](.github/skills/deploy-wiki/SKILL.md). `wiki/` is published publicly; never link to `raw/` from wiki pages.
+
+### Linting
+
+- Keep the [glossary](wiki/concepts/glossary.md) current: each ingest adds new technical terms and source-specific usages (ingest step 7); lint proposes missing ones.
+- To refresh the index and update the provisional analyses after new data, follow the [lint skill](.github/skills/lint/SKILL.md).
+
 ### Queries and maintenance
 
 - Start with `wiki/index.md`, then consult relevant wiki pages and source material before answering.

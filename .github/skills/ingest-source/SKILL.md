@@ -46,8 +46,9 @@ Update [profiling-approaches.md](../../../wiki/analyses/profiling-approaches.md)
 4. Do not add a general approach from one ambiguous passage; put it under open questions.
 5. Cite by source, period and section, and cross-link the country page.
 
-## 7. Index and log
+## 7. Glossary, index and log
 
+- Add any new acronym or technical phrase to [glossary.md](../../../wiki/concepts/glossary.md) with a source-specific definition, citation and link to the explaining page. If the source uses an existing term differently, add the second usage to the same entry.
 - Add every new page to `wiki/index.md` with a one-line description. Update descriptions that have changed.
 - Append the log entry as `## [YYYY-MM-DD] ingest | Short title` with `### Added`, `### Changed` and `### Removed` sections. Link the affected pages, write `None.` for an empty category, and never rewrite earlier entries.
 
